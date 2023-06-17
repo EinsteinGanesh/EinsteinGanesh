@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ganesh
 - 👀 I’m interested in Coding, Electronics Projects
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Full Stack Development (MERN) and Python.
 - 💞️ I’m looking to collaborate on Python Developer Community
 - 📫 How to reach me : mr.ganeshan23@gmail.com
 
